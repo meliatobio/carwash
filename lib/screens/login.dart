@@ -25,7 +25,6 @@ class _LoginScreenState extends State<LoginScreen> {
 
   @override
   Widget build(BuildContext context) {
-    print(jeniskendaraan.jenisKendaraanList);
     return Scaffold(
       backgroundColor: Colors.white,
       body: Center(
